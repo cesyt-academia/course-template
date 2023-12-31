@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcourse_template=self.webpackChunkcourse_template||[]).push([[8526],{9366:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/course-template/blog/tags/facebook","allTagsPath":"/course-template/blog/tags","count":1,"unlisted":false}')}}]);
